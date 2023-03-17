@@ -1,4 +1,4 @@
-/* Ricky Rathod 501104462 */
+/* Ricky Rathod */
 package coe318.lab4;
 
 public class Bank {
