@@ -1,6 +1,6 @@
 /**
  *
- * @Ricky Rathod 501104462
+ * @Ricky Rathod
  */
 package coe318.lab3;
 public class Counter {
