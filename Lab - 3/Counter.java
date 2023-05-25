@@ -8,6 +8,7 @@ public class Counter {
     Counter left;
     private int getDigit;
     private int setDigit;
+    
     public Counter(int modulus, Counter left) {
         this.modulus = modulus; 
         this.left = left;
